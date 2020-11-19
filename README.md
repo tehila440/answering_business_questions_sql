@@ -4,7 +4,7 @@ The Chinook database contains information about a fictional digital music shop -
 
 The Chinook database contains information about the artists, songs, and albums from the music shop, as well as information on the shop's employees, customers, and the customers purchases. This information is contained in eleven tables. 
 
-The first part of this notebook is from a DataQuest guided project.  The last part of the notebook is exploring the data further, adding visualizations, and practicing alternate techniques.
+The first part of this notebook is from a DataQuest project.  The last part of the notebook is exploring the data further, adding visualizations, and practicing alternate techniques.
 
 Task 1 - Pick Three New Albums for Store
 The task is to select the top three potential albums for the store based on which genres sell best in USA. THe genres from which to chose are Hip-Hop, Punk, Pop, and Blues.  Out of these four Punk, Pop, and Blues are more popular than Hip-Hop.  The top three genres sold in the US are Rock, Alternative & Punk, and Metal. It would be good to be on the lookout for albums in the Rock genre in the future considering Rock comprises over half of the sales. 
